@@ -1,4 +1,5 @@
 streamlit
-torch
 transformers
+torch==2.0.1
 peft
+datasets==2.14.5
